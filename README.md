@@ -10,8 +10,11 @@ The analysis has four graphs.
  ![alt text](https://github.com/CJRockball/Residual-Overview/blob/main/Images/4in1.png)
  
 QQ plot: Shows normality of the residual.
+
 Residuals vs Fitted Value: Will show if there is heteroskedasticity.
+
 Histogram: Shows normality, you might need to adjust binning.
+
 Residual vs Observation Order: Shows if there is drift in the data.
 
 
