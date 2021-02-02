@@ -7,7 +7,7 @@ The residual analysis and plot is in a function in the file fourinone_residual. 
 
 The analysis has four graphs.
  
- ![alt text](Residual-Overview/Images/4in1.png)
+ ![alt text](https://github.com/CJRockball/Residual-Overview/blob/main/Images/4in1.png)
  
 QQ plot: Shows normality of the residual.
 Residuals vs Fitted Value: Will show if there is heteroskedasticity.
